@@ -3,7 +3,6 @@
 	<head>
 		<title>Portfolio | Tiago Fernandes</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-
 	</head>
 	<body>
 		<header>
@@ -28,6 +27,12 @@
 			and potential encounters for players to find. All this was made in an Online table top simulator called Maptools.</p>
 		</div>
 		<script>
+			let header = document.querySelector("header");
+
+			window.addEventListener("scroll", function(){
+				let value = window.scrollY;
+				header.style.marginTop = value * 1.0 + "px";
+			})
 		</script>
 	</body>
 </html>

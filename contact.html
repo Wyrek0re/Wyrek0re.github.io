@@ -22,14 +22,21 @@
 			</h2>
 			<h2 class="title">Check my Linkedin!</h2>
 			<h2 class="skills">
-				<a class="contact-links" href="https://www.linkedin.com/in/tiago-fernandes-7a3716195/"><i class="devicon-linkedin-plain"></i></a>
+				<a class="contact-links" href="https://www.linkedin.com/in/tiago-fernandes-7a3716195/" target="_blank"><i class="devicon-linkedin-plain"></i></a>
 			</h2>
-			<h2 class="title">Here is a link for my CV:</h2>
+			<h2 class="title">Here is a link to my CV:</h2>
 			<h2 class="skills">
-				<a class="contact-links" href="files/Tiago_Fernandes_CV_August_2022.pdf"><i class="fa fa-book" style="font-size:56px"></i></a>
+				<a class="contact-links" href="files/Tiago_Fernandes_CV_August_2022.pdf" target="_blank"><i class="fa fa-book" style="font-size:56px"></i></a>
 			</h2>
+			<h2 class="title">Thank you for your time!</h2>
 		</div>
 		<script>
+			let header = document.querySelector("header");
+
+			window.addEventListener("scroll", function(){
+				let value = window.scrollY;
+				header.style.marginTop = value * 1.0 + "px";
+			})
 		</script>
 	</body>
 </html>
