@@ -31,7 +31,7 @@ header .logo{
     color: #fff;
     font-weight: 700;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3.5em;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -49,9 +49,14 @@ header ul li{
 
 header ul li a{
     text-decoration: none;
-    padding: 6px 15px;
+    padding: 6px 40px;
+    right: 10px;
     color: #fff;
     border-radius: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    background: rgba(55, 39, 108, .6);
 }
 
 header ul li a:hover, header ul li a.active{
@@ -96,6 +101,19 @@ section img#mountains_front {
     z-index: 10;
 }
 
+.myPicture {
+    width:15%;
+    height:15%;
+    border: 10px solid #2b1055;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #text{
     position: absolute;
     right: -350px;
@@ -121,6 +139,47 @@ section img#mountains_front {
     padding: 100px;
     background: #627DC0;
 }
+
+.title{
+    text-align: center;
+}
+
+.text-about{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-justify: inter-word;
+    border: 4px solid rgba(55, 39, 108, 0.6);
+    background: rgba(55, 39, 108, .6);
+    border-radius: 20px;
+    width: 100%;
+    height: 75px;
+}
+
+.skills{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-exp{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-justify: inter-word;
+    border: 4px solid rgba(55, 39, 108, 0.6);
+    background: rgba(55, 39, 108, .6);
+    border-radius: 20px;
+    width: 100%;
+    height: 100px;
+}
+
 .sec h2{
     font-size: 3.5em;
     margin.bottom: 10px;
