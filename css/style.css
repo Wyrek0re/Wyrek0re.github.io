@@ -213,3 +213,14 @@ section img#mountains_front {
     font-size: 1.2em;
     color: #fff;
 }
+
+.contact-links{
+    text-decoration: none;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
