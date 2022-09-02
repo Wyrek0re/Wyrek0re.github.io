@@ -102,8 +102,8 @@ section img#mountains_front {
 }
 
 .myPicture {
-    width:15%;
-    height:15%;
+    width:25%;
+    height:25%;
     border: 10px solid #2b1055;
     border-radius: 35px;
     display: flex;
