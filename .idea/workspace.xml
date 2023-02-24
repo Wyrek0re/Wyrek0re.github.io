@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/CV_Tiago_Santos_Fernandes_February_2023.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Enemy_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Enemy_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/FirstIsland_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Player_character_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/RainyIsland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/RainyIsland_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/TheCastle_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/TheCastle_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/TheCastle_4.png" afterDir="false" />
+    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="Added updated CV and new info about Unity Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Tiago_Fernandes_CV_August_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662070877821</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added updated CV and new info about Unity Project">
+      <created>1677280806430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677280806430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added updated CV and new info about Unity Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added updated CV and new info about Unity Project" />
   </component>
 </project>

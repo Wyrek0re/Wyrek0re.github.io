@@ -15,7 +15,21 @@
 		</header>
 		<div class="sec work" id="sec">
 			<h2 class="title">The Hole in Worlds - Unity Degree Project</h2>
-			<img src="images/Map.png" class="projectMagioActive">
+			<div class="container">
+				<button class="left-button" onclick="plusDivs(-1)">&#10094;</button>
+				<img src="images/Player_character_1.png" class="holeInWorlds">
+				<img src="images/Map.png" class="holeInWorlds">
+				<img src="images/Enemy_1.png" class="holeInWorlds">
+				<img src="images/Enemy_2.png" class="holeInWorlds">
+				<img src="images/FirstIsland_1.png" class="holeInWorlds">
+				<img src="images/RainyIsland.png" class="holeInWorlds">
+				<img src="images/RainyIsland_2.png" class="holeInWorlds">
+				<img src="images/TheCastle_1.png" class="holeInWorlds">
+				<img src="images/TheCastle_3.png" class="holeInWorlds">
+				<img src="images/TheCastle_4.png" class="holeInWorlds">
+				<button class="right-button" onclick="plusDivs(+1)">&#10095;</button>
+			</div>
+
 			<p class="text-about">3D Third Person Action Fantasy Game. Made using a collection of modules from the Unity asset store, Unity built-in assets and characters from Mixamo</p>
 			<h2 class="title">Project Magioactive - Twine</h2>
 			<img src="images/project_magioactive.png" class="projectMagioActive">
@@ -34,5 +48,24 @@
 				header.style.marginTop = value * 1.0 + "px";
 			})
 		</script>
+	<script>
+		var slideIndex = 1;
+		showDivs(slideIndex);
+
+		function plusDivs(n) {
+		  showDivs(slideIndex += n);
+		}
+
+		function showDivs(n) {
+		  var i;
+		  var x = document.getElementsByClassName("holeInWorlds");
+		  if (n > x.length) {slideIndex = 1}
+		  if (n < 1) {slideIndex = x.length} ;
+		  for (i = 0; i < x.length; i++) {
+			x[i].style.display = "none";
+		  }
+		  x[slideIndex-1].style.display = "block";
+		}
+	</script>
 	</body>
 </html>
