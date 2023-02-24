@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/files/CV_Tiago_Santos_Fernandes_February_2023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Enemy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Enemy_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/FirstIsland_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Player_character_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RainyIsland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RainyIsland_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/TheCastle_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/TheCastle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/TheCastle_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Tiago_Fernandes_CV_August_2022.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,15 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Portfolio/GitHub-Page/Wyrek0re.github.io&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Portfolio/GitHub-Page/Wyrek0re.github.io/images"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Portfolio\GitHub-Page\Wyrek0re.github.io\images" />
+      <recent name="D:\Portfolio\GitHub-Page\Wyrek0re.github.io\files" />
       <recent name="D:\Portfolio\GitHub-Page\Wyrek0re.github.io" />
     </key>
   </component>
