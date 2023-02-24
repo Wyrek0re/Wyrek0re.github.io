@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="Quick fix to dnd text">
+    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="Quick fix to cv link">
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677282780035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Quick fix to cv link">
+      <created>1677282922216</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677282922216</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +121,7 @@
     <MESSAGE value="Added hyperlink to unity project" />
     <MESSAGE value="Changed linkedin link" />
     <MESSAGE value="Quick fix to dnd text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick fix to dnd text" />
+    <MESSAGE value="Quick fix to cv link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick fix to cv link" />
   </component>
 </project>
