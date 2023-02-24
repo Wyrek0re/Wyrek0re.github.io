@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="Added hyperlink to unity project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-    </list>
+    <list default="true" id="237793c5-bc04-487f-ac2f-db4ea7154360" name="Changes" comment="Changed linkedin link" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677282197119</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed linkedin link">
+      <created>1677282333161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677282333162</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +103,7 @@
     <MESSAGE value="Changed description" />
     <MESSAGE value="Quick description fix" />
     <MESSAGE value="Added hyperlink to unity project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hyperlink to unity project" />
+    <MESSAGE value="Changed linkedin link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed linkedin link" />
   </component>
 </project>
